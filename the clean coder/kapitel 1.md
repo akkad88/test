@@ -1,8 +1,6 @@
 # The Clean Coder
 
-**_ÜBER DIESES BUCH_**
-![Cover](./img/thecleancoder.jpg) <br>
-
+**_ÜBER DIESES BUCH_** <br>
 Ich begrüße Sie zum nächsten Schritt in Ihrer Karriere. <br>
 In diesem Buch geht es um Software-Professionalität.
 Beratung bei der Beantwortung von Fragen, 
