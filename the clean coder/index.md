@@ -50,6 +50,7 @@ Sie dachten, entwickeln Sie das Design weiter, so dass die nächste Änderung
 einfacher ist.
  
 ARBEITS-ETHIK
+
 Ihre Karriere liegt in Ihrer Verantwortung. Einige Arbeitgeber sind 
 bereit, Ihnen Bücher zu kaufen und Sie zu Schulungen und Vorträgen 
 zu schicken. Das ist in Ordnung,. Aber gehen Sie nie in die Falle, zu 
