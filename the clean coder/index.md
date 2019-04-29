@@ -1,4 +1,4 @@
-the clean coder
+The Clean Coder
 
 ÜBER DIESES BUCH
 Ich begrüße Sie zum nächsten Schritt in Ihrer Karriere.
@@ -78,3 +78,5 @@ um diene Fähigkeiten zu verbessern.
 Musiker werden nicht besser, wenn sie etwas leisten (ihren Job machen), 
 sie werden besser, wenn sie üben (außerhalb der Arbeit). Die gleiche Regel 
 gilt für Ingenieure.
+
+
