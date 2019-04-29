@@ -1,9 +1,5 @@
 # The Clean Coder
 
-![cover](./img/the clean coder.jpg )
+![Cover](./img/thecleancoder.jpg)
 
-
-
-
-
-
+[Kapitel 1](thecleancoder/kapitel1.md)
