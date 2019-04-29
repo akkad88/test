@@ -62,6 +62,7 @@ sicher, dass Sie einige zusätzliche Stunden für sich selbst einplanen
 
 
 KONTINUIERLICHES LERNEN
+
 Lies Bücher, Artikel, Blogs, Tweets. Gehen Sie zu Vorträgen. 
 Gehen Sie zu den Benutzergruppen. Nehmen Sie an Lese- und Lerngruppen 
 teil .Sicherzustellen, dass Sie sich in den Bereichen entwickeln, in 
@@ -71,6 +72,7 @@ ein Java-Programmierer sind, lernen Sie Ruby. Wenn Sie ein C-Programmierer
 sind, lernen Sie Lisp.
 
 PRAXIS
+
 Es reicht nicht aus, einfach deine tägliche Arbeit zu erledigen 
 und das als Praxis zu bezeichnen.Kenne dein Gebiet und kenne 
 es gut. Kennen Sie Designmuster und -prinzipien, Methoden und Praktiken. 
