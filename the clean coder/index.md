@@ -1,3 +1,3 @@
 # The Clean Coder
 
-![Cover](./img/Cover.jpg)
+![Cover](./img/cover.jpg)
