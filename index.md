@@ -1,2 +1,0 @@
-the clean coder
-mdakfmdskmgsdvc
