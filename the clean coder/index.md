@@ -1,6 +1,7 @@
 The Clean Coder
 
 ÜBER DIESES BUCH
+
 Ich begrüße Sie zum nächsten Schritt in Ihrer Karriere.
 In diesem Buch geht es um Software-Professionalität.
 Beratung bei der Beantwortung von Fragen, wie z.B.
@@ -78,5 +79,3 @@ um diene Fähigkeiten zu verbessern.
 Musiker werden nicht besser, wenn sie etwas leisten (ihren Job machen), 
 sie werden besser, wenn sie üben (außerhalb der Arbeit). Die gleiche Regel 
 gilt für Ingenieure.
-
-
