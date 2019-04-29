@@ -1,5 +1,5 @@
 # The Clean Coder
-
+![Cover](./img/cover.jpg 'cover') <br><br>
 **_ÜBER DIESES BUCH_** <br>
 Ich begrüße Sie zum nächsten Schritt in Ihrer Karriere. <br>
 In diesem Buch geht es um Software-Professionalität.
