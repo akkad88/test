@@ -2,4 +2,4 @@
 
 ![Cover](./img/cover.jpg)
 
-1. [Kapitel 1 / Termin 1](TheCleanCoder/Kapitel1.md)
+1. [Kapitel 1 / Termin 1](the clean coder /Kapitel1.md)
