@@ -1,0 +1,68 @@
+
+<html>
+
+<head>
+    <title>Einkaufzentrum</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body>
+    <header>
+      
+        <h1>Einkafzentrum</h1>
+    </header>
+
+    <nav>
+
+        <ul>
+            <li><a class="active" href="index.html">ParkPlatz</a>
+            </li>
+            <li><a href="dinputs.html">Fragen Park number</a>
+            </li>
+            <li><a href="anoutputs.html">Besucheranzahl</a>
+            </li>
+            <li><a href="aninputs.html">Temperature</a>
+            
+        </ul>
+
+    </nav>
+
+    <section>
+        <table>
+            <tr>
+                <th>Park number</th>
+                <th>Status</th>
+                <th>Buchen</th>
+            </tr>
+            <tr>
+                <td>DOut1</td>
+                <td id="dout1">waiting..</td>
+                <td>
+                    <button class="button" onclick="digital_output_toggle('dout1')">Toggle</button>
+                </td>
+            </tr>
+            <tr>
+                <td>DOut2</td>
+                <td id="dout2">waiting..</td>
+                <td>
+                    <button class="button" onclick="digital_output_toggle('dout2')">Toggle</button>
+            </tr>
+            <tr>
+                <td>DOut3</td>
+                <td id="dout3">waiting..</td>
+                <td>
+                    <button class="button" onclick="digital_output_toggle('dout3')">Toggle</button>
+            </tr>
+            <tr>
+                <td>DOut4</td>
+                <td id="dout4">waiting..</td>
+                <td>
+                    <button class="button" onclick="digital_output_toggle('dout4')">Toggle</button>
+            </tr>
+        </table>
+    </section>
+
+</body>
+
+</html>
