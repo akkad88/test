@@ -1,15 +1,13 @@
-
-#include <MQTTClient.h>
-
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
-
+ 
 const char* ssid = "Akkad";
 const char* password =  "a0944092787yA";
 const char* mqttServer = "adc6f589c943b11e992a806af74c27f4-1098576588.eu-central-1.elb.amazonaws.com";
-const int mqttPort = 1883 ;
+const int mqttPort = 1883;
 const char* mqttUser = "";
 const char* mqttPassword = "";
+ 
 WiFiClient espClient;
 PubSubClient client(espClient);
  
@@ -31,7 +29,7 @@ void setup() {
   while (!client.connected()) {
     Serial.println("Connecting to MQTT...");
  
-   if (client.connect("ESP8266Client", mqttUser, mqttPassword )){
+    if (client.connect("ESP8266Client", mqttUser, mqttPassword )) {
  
       Serial.println("connected");  
  
@@ -44,8 +42,8 @@ void setup() {
     }
   }
  
- 
-  client.subscribe("costRequest");
+  client.publish("REQUEST_PARKING_INFO", "Hello from ESP8266");
+  client.subscribe("REQUEST_PARKING_INFO");
  
 }
  
